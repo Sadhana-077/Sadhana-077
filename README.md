@@ -38,7 +38,7 @@
 
 <!-- ==================== SKILLS ==================== -->
 
-<h3>🛠Skills</h3>
+<h3>🛠 Skills</h3>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,nodejs,express,mongodb,mysql,postgresql,git" />
